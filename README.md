@@ -10,11 +10,10 @@ Logsun’s PIC Project Board supports 40 pin PIC microcontroller. LGS-PIC-U can 
     5. Programming through USB.
     6. Externally connect PIC-kit 2 and PIC-kit 3
     ## System Requirement:
-     LGS- PIC Project board Includes:
+    ### LGS- PIC Project board Includes:
     1. USB cable.
     2. 12V Power Adapter.
-    3. System CD ROM. Containing
-
+    3. System CD ROM. Containin
     a) MPLAB 8.92
     b) MPLAB X
     c) Downloading software, C18 compiler, CCS compiler
